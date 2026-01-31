@@ -2,7 +2,7 @@
 
 This project is a content-based movie recommendation system developed using Python and machine learning techniques. It recommends movies similar to a selected title by analyzing movie metadata.
 
-Features
+**Features**
 
 Content-based filtering
 
@@ -12,13 +12,17 @@ Efficient and scalable design
 
 Preprocessed model stored using pickle
 
-Technologies
+**Technologies**
 
 Python, NumPy, Pandas, Scikit-learn
 
-Dataset
+**Dataset**
 
 TMDB 5000 Movies Dataset
 
-Usage
+**Usage**
 recommend("Batman Begins")
+
+**Project Type**
+
+Academic / Personal Project (No client involved)
