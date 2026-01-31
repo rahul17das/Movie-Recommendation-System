@@ -1,4 +1,4 @@
-##Movie Recommendation System
+**Movie Recommendation System**
 
 This project is a content-based movie recommendation system developed using Python and machine learning techniques. It recommends movies similar to a selected title by analyzing movie metadata.
 
